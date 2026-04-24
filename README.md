@@ -2,7 +2,7 @@
 
 Selection of virtual environments for art and design students 
 
-While the repo itself presents the environments as Unity scenes, it is also to replicate them in other engines or 3D software using the supplied textures and models, which can be found in the `Assets\Prefabs` folder. 
+While the repo itself presents the environments as Unity scenes, it is also possible to replicate them in other engines or 3D software using the supplied textures and models, which can be found in the `Assets\Prefabs` folder. 
 
 
 # List of environments 
@@ -18,7 +18,7 @@ Modelled off the actual Hopkins gallery space. This was initially created for th
 
 ## Museum space 
 
-Neutral space with spot lights and stands. This space was created during the process of making another assignment for a [Japanese Sword demo space](https://amarthgul.itch.io/bijutsu-kaen).  
+Neutral space with spot lights and stands. This space was created during the process of making a [Japanese Sword demo space](https://amarthgul.itch.io/bijutsu-kaen).  
 
 <p align="center">
 	<img src="Assets/ReadmeImg/MuseumPreview.png" width="512">
