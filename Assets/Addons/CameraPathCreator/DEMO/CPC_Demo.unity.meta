@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ad172255fbbbbfe4e82fa992a4667fcb
+timeCreated: 1494443288
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 84074
+  packageName: Camera Path Creator
+  packageVersion: 1.2
+  assetPath: Assets/Addons/CameraPathCreator/DEMO/CPC_Demo.unity
+  uploadId: 179301

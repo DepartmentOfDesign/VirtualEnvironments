@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0ea5607332fc4854090854d440fd52b5
+timeCreated: 1487640447
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 84074
+  packageName: Camera Path Creator
+  packageVersion: 1.2
+  assetPath: Assets/Addons/CameraPathCreator/DEMO/Mat.mat
+  uploadId: 179301

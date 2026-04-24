@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: cf7e085ec6ebade42bf5c1b00bec73d4
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirVent2
+    second: {fileID: 2100000, guid: 95f1f7c924122f1499a296acffd1d258, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirVent3
+    second: {fileID: 2100000, guid: 99435d464dcc59c40bf0afa00326c70c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LightBulb
+    second: {fileID: 2100000, guid: a377a55ca2d8b85428e0029893ff53b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LightheadMetal
+    second: {fileID: 2100000, guid: c2a37944c846c8243b987815fe82ed0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LightheadPin
+    second: {fileID: 2100000, guid: 5098268f639d6cd429ec7ffdbf8a027f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 7da9e7c1f081a3948b929d03beefabd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: openPBR_shader1
+    second: {fileID: 2100000, guid: b392f806727672f4d993db20b7c9efa5, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["polySurface40","polySurface39","polySurface38","polySurface16","polySurface12","polySurface10","polySurface54","polySurface53","polySurface52","polySurface51","polySurface30","polySurface27","polySurface9","polySurface6","polySurface50","polySurface49","polySurface48","polySurface28","polySurface23","polySurface8","polySurface4","polySurface1","polySurface47","polySurface46","polySurface45","polySurface18","polySurface14","polySurface13","polySurface107","polySurface22","polySurface110","polySurface44","polySurface43","polySurface42","polySurface41","polySurface37","polySurface35","polySurface32","polySurface26","polySurface24","polySurface57","polySurface56","polySurface55","polySurface17","pCube40","pCube39","pCube38","pCube37","pCube36","pCube35","polySurface57.001","polySurface56.001","polySurface55.001","polySurface17.001","pCube40.001","pCube39.001","pCube38.001","pCube37.001","pCube36.001","pCube35.001","pCylinder28","pCylinder27","pCylinder26","pCylinder25","pCylinder24","pCylinder23","pCylinder22","pCylinder21","pCylinder20","pCylinder19","pCylinder18","pCylinder17","pCube83","pCube82","pCube81","pCube79.001","pCube78.001","pCube77","polySurface58","polySurface19","pCylinder35","pCylinder34","pCylinder33","pCylinder32","pCylinder31","pCylinder30","pCylinder29","pCylinder16","pCylinder15","pCylinder9","pCylinder8","pCylinder7","pCylinder6","pCylinder5","pCylinder4","pCylinder3","pCube85","pCube84","pCube80","pCube79","pCube78","pCube32","pCube3","ar0707ps__42","ar0707ps__41","ar0707ps__34","ar0707ps__28","ar0707ps__10","ar0707ps__9","ar0707ps__27","ar0707ps__26","ar0707ps__25","ar0707ps__22","ar0707ps__35","ar0707ps__33","ar0707ps__32","ar0707ps__31","pCube34","pCube33","ar0707ps__44","ar0707ps__43","ar0707ps__30","ar0707ps__29","ar0707ps__40","ar0707ps__39","ar0707ps__38","ar0707ps__37","ar0707ps__36","ar0707ps__24","polySurface106","polySurface105","polySurface104","polySurface103","polySurface102","polySurface101","polySurface100","polySurface99","polySurface98","polySurface97","polySurface96","polySurface95","polySurface94","polySurface93","polySurface92","polySurface91","polySurface90","polySurface89","polySurface88","polySurface87","polySurface86","polySurface85","polySurface84","polySurface83","polySurface82","polySurface81","polySurface80","polySurface79","polySurface78","polySurface77","polySurface76","polySurface75","polySurface74","polySurface73","polySurface72","polySurface71","polySurface70","polySurface69","polySurface68","polySurface67","polySurface66","polySurface65","polySurface64","polySurface63","polySurface62","polySurface61","polySurface60","pCylinder86","pCylinder85","pCylinder84","pCylinder83","pCylinder82","pCylinder79","pCylinder59.057","pCube154.057","pPipe1.057","polySurface25.057","axis.057","pCylinder59.056","pCube154.056","pPipe1.056","polySurface25.056","axis.056","pCylinder59.055","pCube154.055","pPipe1.055","polySurface25.055","axis.055","pCylinder59.054","pCube154.054","pPipe1.054","polySurface25.054","axis.054","pCylinder59.053","pCube154.053","pPipe1.053","polySurface25.053","axis.053","pCylinder59.052","pCube154.052","pPipe1.052","polySurface25.052","axis.052","pCylinder59.051","pCube154.051","pPipe1.051","polySurface25.051","axis.051","pCylinder59.050","pCube154.050","pPipe1.050","polySurface25.050","axis.050","pCylinder59.049","pCube154.049","pPipe1.049","polySurface25.049","axis.049","pCylinder59.048","pCube154.048","pPipe1.048","polySurface25.048","axis.048","pCylinder59.047","pCube154.047","pPipe1.047","polySurface25.047","axis.047","pCylinder59.046","pCube154.046","pPipe1.046","polySurface25.046","axis.046","pCylinder59.045","pCube154.045","pPipe1.045","polySurface25.045","axis.045","pCylinder59.044","pCube154.044","pPipe1.044","polySurface25.044","axis.044","pCylinder59.043","pCube154.043","pPipe1.043","polySurface25.043","axis.043","pCylinder59.042","pCube154.042","pPipe1.042","polySurface25.042","axis.042","pCylinder59.041","pCube154.041","pPipe1.041","polySurface25.041","axis.041","pCylinder59.040","pCube154.040","pPipe1.040","polySurface25.040","axis.040","pCylinder59.039","pCube154.039","pPipe1.039","polySurface25.039","axis.039","pCylinder59.038","pCube154.038","pPipe1.038","polySurface25.038","axis.038","pCylinder59.037","pCube154.037","pPipe1.037","polySurface25.037","axis.037","pCylinder59.036","pCube154.036","pPipe1.036","polySurface25.036","axis.036","pCylinder75.001","pCylinder74.001","pCylinder73.001","pCylinder72.001","pCylinder71.001","pCylinder70.001","pCylinder68.001","pCylinder64.001","pCylinder59.035","pCube154.035","pPipe1.035","polySurface25.035","axis.035","pCylinder59.034","pCube154.034","pPipe1.034","polySurface25.034","axis.034","pCylinder59.033","pCube154.033","pPipe1.033","polySurface25.033","axis.033","pCylinder59.032","pCube154.032","pPipe1.032","polySurface25.032","axis.032","pCylinder59.031","pCube154.031","pPipe1.031","polySurface25.031","axis.031","pCylinder59.030","pCube154.030","pPipe1.030","polySurface25.030","axis.030","pCylinder59.029","pCube154.029","pPipe1.029","polySurface25.029","axis.029","pCylinder59.028","pCube154.028","pPipe1.028","polySurface25.028","axis.028","pCylinder59.027","pCube154.027","pPipe1.027","polySurface25.027","axis.027","pCylinder59.026","pCube154.026","pPipe1.026","polySurface25.026","axis.026","pCylinder59.025","pCube154.025","pPipe1.025","polySurface25.025","axis.025","pCylinder59.024","pCube154.024","pPipe1.024","polySurface25.024","axis.024","pCylinder59.023","pCube154.023","pPipe1.023","polySurface25.023","axis.023","pCylinder59.022","pCube154.022","pPipe1.022","polySurface25.022","axis.022","pCylinder59.021","pCube154.021","pPipe1.021","polySurface25.021","axis.021","pCylinder59.020","pCube154.020","pPipe1.020","polySurface25.020","axis.020","pCylinder59.019","pCube154.019","pPipe1.019","polySurface25.019","axis.019","pCylinder59.018","pCube154.018","pPipe1.018","polySurface25.018","axis.018","pCylinder75","pCylinder74","pCylinder73","pCylinder72","pCylinder71","pCylinder70","pCylinder68","pCylinder64","pCylinder59.017","pCube154.017","pPipe1.017","polySurface25.017","axis.017","pCylinder59.016","pCube154.016","pPipe1.016","polySurface25.016","axis.016","pCylinder59.015","pCube154.015","pPipe1.015","polySurface25.015","axis.015","pCylinder59.014","pCube154.014","pPipe1.014","polySurface25.014","axis.014","pCylinder59.013","pCube154.013","pPipe1.013","polySurface25.013","axis.013","pCylinder59.012","pCube154.012","pPipe1.012","polySurface25.012","axis.012","pCylinder59.011","pCube154.011","pPipe1.011","polySurface25.011","axis.011","pCylinder59.010","pCube154.010","pPipe1.010","polySurface25.010","axis.010","pCylinder59.009","pCube154.009","pPipe1.009","polySurface25.009","axis.009","pCylinder59.008","pCube154.008","pPipe1.008","polySurface25.008","axis.008","pCylinder59.007","pCube154.007","pPipe1.007","polySurface25.007","axis.007","pCylinder59.006","pCube154.006","pPipe1.006","polySurface25.006","axis.006","pCylinder59.005","pCube154.005","pPipe1.005","polySurface25.005","axis.005","pCylinder59.004","pCube154.004","pPipe1.004","polySurface25.004","axis.004","pCylinder59.003","pCube154.003","pPipe1.003","polySurface25.003","axis.003","pCylinder59.002","pCube154.002","pPipe1.002","polySurface25.002","axis.002","pCylinder59.001","pCube154.001","pPipe1.001","polySurface25.001","axis.001","pCylinder59","pCube154","pPipe1","polySurface25","axis","pPlane34","pPlane33","pPlane32","pPlane31","pPlane30","ar0794cc__33","ar0794cc__32","ar0794cc__31","ar0794cc__30","ar0794cc__29","ar0794cc__28","ar0794cc__27","ar0794cc__26","ar0794cc__25","ar0794cc__24","ar0794cc__23","ar0794cc__22","ar0794cc__21","ar0794cc__20","ar0794cc__19","ar0794cc__18","ar0794cc__17","ar0794cc__16","ar0794cc__15","ar0794cc__14","ar0794cc__13","ar0794cc__12","ar0794cc__11","ar0794cc__10","ar0794cc__9","ar0794cc__8","ar0794cc__7","ar0794cc__6","ar0794cc__5","ar0794cc__4","ar0794cc__3","ar0794cc__2","ar0799","ar0798","ar0797","ar0796","ar0795","ar0327","pPlane29","pPlane28","pPlane27","pPlane26","pCube28","ar1132","ar1131","ar1130","ar1129","ar1127","ar0707b__8","ar0707b__7","ar0707b__6","ar0707b__5","ar0315e5","ar0315e3","ar0315e2","ar0315e1"],"padding":[55,55,3,5,5,4,55,4,55,4,3,3,6,6,55,4,55,3,3,4,6,6,55,55,3,5,5,4,8,8,3,55,55,3,55,55,3,3,3,3,256,119,17,17,44,11,62,62,44,11,256,119,17,17,44,11,62,62,44,11,15,15,13,13,15,13,15,15,13,13,15,13,38,38,38,38,38,38,22,22,20,18,18,20,23,25,40,25,23,18,40,18,20,18,20,20,39,39,39,39,39,9,9,11,11,16,16,11,11,11,11,11,12,12,11,11,11,9,9,11,11,16,16,13,13,13,13,10,10,30,20,30,20,30,20,30,20,30,20,30,20,30,20,30,20,30,20,30,20,30,20,30,20,30,20,30,20,30,20,30,20,30,20,30,20,30,20,30,20,30,20,30,20,30,20,30,21,91,91,21,21,21,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,92,20,92,41,20,92,92,41,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,92,20,92,41,20,92,92,41,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,256,165,76,256,256,2,2,2,2,1,20,20,20,20,23,23,23,23,60,60,27,21,20,21,20,27,20,20,20,23,23,23,23,20,26,26,20,20,26,26,20,20,22,22,22,22,22,22,3,3,2,2,1,7,12,13,12,13,48,48,48,48,7,7,6,6],"unwrapper":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]}'
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
