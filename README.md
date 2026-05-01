@@ -1,9 +1,10 @@
 # VirtualEnvironments
 
-Selection of virtual environments for art and design students 
+Selection of virtual environments for art and design students. The environments are created from scratch and kept in relatively low poly to reduce the resource consumption when built to run in a browser. 
 
 While the repo itself presents the environments as Unity scenes, it is also possible to replicate them in other engines or 3D software using the supplied textures and models, which can be found in the `Assets\Prefabs` folder. 
 
+Special Thanks to [Jeremy Patterson](https://accad.osu.edu/people/patterson.680) for the support. 
 
 # List of environments 
 
@@ -27,7 +28,7 @@ Neutral space with spot lights and stands. This space was created during the pro
 
 ## Show room 
 
-A space whose theme is based on Apple and similar consumer electronics stores. This room was originally created for ACCAD 7103. 
+A space whose theme is based on Apple and similar consumer electronics stores. This room was originally created for [Prof. Shadrick Kuteh's](https://accad.osu.edu/people/kuteh.2) ACCAD 7103. 
 
 <p align="center">
 	<img src="Assets/ReadmeImg/ShowRoomPreview.png" width="512">

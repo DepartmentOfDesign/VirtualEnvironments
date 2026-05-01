@@ -14146,3 +14146,7 @@ Initializing D3D...
 Done
 Initializing D3D...
 Done
+Done
+Done
+Done
+Done
